@@ -53,6 +53,7 @@
     <Compile Include="Api\RunAsUser.cs" />
     <Compile Include="CacheHelper.cs" />
     <Compile Include="EncryptUtil\AES.cs" />
+    <Compile Include="EncryptUtil\CAEncrypt.cs" />
     <Compile Include="FileHelper.cs" />
     <Compile Include="HttpUtils\HttpClient.cs" />
     <Compile Include="IO\Ini\IniFiles.cs" />
