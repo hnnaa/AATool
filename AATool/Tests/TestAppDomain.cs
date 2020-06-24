@@ -8,13 +8,13 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace AATool
+namespace AATool.Tests
 {
-    public class TestAppDomain
+    public class TestAppDomain : ITest
     {
         private static int abc = 99;
 
-        public static void Test()
+        public void Test()
         {
             //进程下加载的模块
             var moduleList = Process.GetCurrentProcess().Modules;
