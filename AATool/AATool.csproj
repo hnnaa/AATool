@@ -58,6 +58,7 @@
     <Compile Include="Tests\TestAppDomain.cs" />
     <Compile Include="Tests\TestCAEncrypt.cs" />
     <Compile Include="Tests\TestCompiler.cs" />
+    <Compile Include="Tests\TestRSA.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
