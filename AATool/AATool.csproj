@@ -60,6 +60,7 @@
     <Compile Include="Tests\TestCompiler.cs" />
     <Compile Include="Tests\TestCsv.cs" />
     <Compile Include="Tests\TestRSA.cs" />
+    <Compile Include="Tests\TestSftp.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
