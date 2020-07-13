@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AATool", "AATool\AATool.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsLib", "UtilsLib\UtilsLib.csproj", "{35E551C6-B579-4FD9-9501-B8DD08C36BA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolPackage", "ToolPackage\ToolPackage.csproj", "{7CCA725E-1213-46A0-9688-40EAF87FA2DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilsLib.Doc", "UtilsLib.Doc\UtilsLib.Doc.csproj", "{FBE20B10-D881-4008-8274-938DE46C6067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{35E551C6-B579-4FD9-9501-B8DD08C36BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35E551C6-B579-4FD9-9501-B8DD08C36BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35E551C6-B579-4FD9-9501-B8DD08C36BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CCA725E-1213-46A0-9688-40EAF87FA2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CCA725E-1213-46A0-9688-40EAF87FA2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CCA725E-1213-46A0-9688-40EAF87FA2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CCA725E-1213-46A0-9688-40EAF87FA2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE20B10-D881-4008-8274-938DE46C6067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE20B10-D881-4008-8274-938DE46C6067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE20B10-D881-4008-8274-938DE46C6067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE20B10-D881-4008-8274-938DE46C6067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
